@@ -26,6 +26,9 @@
     <img  align="center" alt="oracle" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
 </div><br/>
 
+## Atualmente aprendendo:
+📘 - Formação Data Science (Alura)
+
 Apaixonado por Tecnologia e inovação.
 
 ## Contato:
