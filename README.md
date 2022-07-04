@@ -29,7 +29,6 @@
 ## Atualmente aprendendo:
 📘 - Formação Data Science (Alura)
 
-Apaixonado por Tecnologia e inovação.
 
 ## Contato:
 E-mail: michael_jso@hotmail.com
